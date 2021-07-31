@@ -8,3 +8,4 @@ This repository contains a notebook for experimenting with various computer visi
 - [ ] Visualize impact of various kernels
 - [ ] Visualize feature maps learned by the network
 - [ ] Compare pre-trained base with custom base
+- [ ] Create a second version using pipelines
